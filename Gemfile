@@ -11,4 +11,7 @@ gem "rake-compiler"
 
 gem "minitest", "~> 5.0"
 
+gem 'rubocop', group: 'development'
+gem 'rubocop', group: 'development'
+gem 'rubocop', group: 'development'
 gem "standard", "~> 1.3"
